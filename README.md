@@ -7,6 +7,8 @@ visual studio code (we love open source software here)
 
 figma (recently got into a club at school that uses figma for UI/UX design, really excited about learning about front-end development)</p>
 
+https://unsplash.com/ has some cool pictures for when you build a website
+
 
 
 
