@@ -1,4 +1,4 @@
-<h1>Hi everyone, this is my first repository and im really excited</h1>
+<h1>Lorem ipsum</h1>
 <h2>Here are some resources I will be using during this journey (so I don't forget) </h2>
 
 <p>freecodecamp (im not really a fan of the tuition based bootcamps, feels like a scam / predatory from what I've read. Not-for-profits like freecodecamp are really great for providing the same education regardless of your financial resources)
